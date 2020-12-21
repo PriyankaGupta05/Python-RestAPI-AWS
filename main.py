@@ -1,6 +1,5 @@
 import flask
 from flask import request, jsonify
-from flask_restful import Resource
 from flask_restful import Resource, Api
 import sqlite3
 from flask import Flask, make_response
